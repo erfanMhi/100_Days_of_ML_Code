@@ -15,7 +15,7 @@
 **Thoughts:** Data visualization is an important topic which I should spend more time on.
 
 **Links to paper:** 
-[Efficient Architecture Search By Network Transformation](https://arxiv.org/abs/1707.04873)
-[Bayesian Optimization Video](https://t.co/6ljkOQhjXX)
+[Efficient Architecture Search By Network Transformation](https://arxiv.org/abs/1707.04873) |
+[Bayesian Optimization Video](https://t.co/6ljkOQhjXX) |
 [Data Visualization Video](https://t.co/Nj9r44uf4m)
 
